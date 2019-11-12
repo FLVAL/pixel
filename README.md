@@ -1,2 +1,2 @@
 # pixel
-## graphic design for EndeavourOS
+## Graphic design for EndeavourOS
